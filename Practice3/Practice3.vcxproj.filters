@@ -18,5 +18,23 @@
     <ClCompile Include="train01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="train02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="train03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="train04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="train06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="train07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="train10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
